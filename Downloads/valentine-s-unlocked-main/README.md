@@ -1,73 +1,76 @@
-# Welcome to your Lovable project
+# 🌹 Valentine's Unlocked | The Ultimate Digital Gift
 
-## Project info
+Welcome to **Valentine's Unlocked**, a premium, interactive web experience designed to celebrate the entire Valentine's Week with style, warmth, and fun. This is more than just a website; it's a digital journey through love, memories, and playful interactions.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Live Demo**: [Running locally at http://localhost:8080](http://localhost:8080)
 
-## How can I edit this code?
+## ✨ Key Features
 
-There are several ways of editing your application.
+### 📅 The Valentine's Week Journey
+A beautifully dedicated page for each day of the week, featuring custom animations, interactive elements, and heartfelt messages:
+*   **🌹 Rose Day**: A 3D interactive rose gallery with personalized wishes.
+*   **💍 Propose Day**: A cinematic proposal experience with "Yes/No" (but "No" runs away!) interactions.
+*   **🍫 Chocolate Day**: A virtual chocolate box opener with sweet surprises.
+*   **🧸 Teddy Day**: A huggable, animated soft toy display.
+*   **🤝 Promise Day**: A digital "Pinky Promise" contract generator.
+*   **🤗 Hug Day**: A warm, animated embrace simulation.
+*   **💋 Kiss Day**: A secret photo reveal interaction using Polaroid-style animations.
+*   **❤️ Valentine's Day**: The grand finale with a retrospective slideshow and a special "Be Mine" celebration.
 
-**Use Lovable**
+### 🎮 The Fun Zone Arcade
+A massive expansion of interactive mini-games to keep the vibe playful and engaging:
+1.  **Love Calculator**: An advanced algorithm (backed by fun logic) to test compatibility.
+2.  **Bubble Wrap**: A stress-relieving popping simulator with satisfying audio.
+3.  **Fortune Cookie**: Crack open digital cookies for romantic predictions.
+4.  **Truth or Dare**: A collaborative game with Soft, Deep, and Spicy categories.
+5.  **Date Night Wheel**: Can't decide what to do? Spin the wheel!
+6.  **Compliment Shower**: Catch falling compliments in a basket (Game Mode).
+7.  **Doodle Board**: A shared canvas to draw hearts and messages.
+8.  **Mood Ring**: A biometric-style mood scanner.
+9.  **Love Potion**: Mix ingredients to see magical results.
+10. **Emoji Translator**: Convert text into fun emoji-speak automatically.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### 🎵 Intelligent Audio System
+A fully persistent **Spotify Embed Player** that sets the perfect mood:
+*   **Smart Routing**: The music changes automatically based on the page you visit.
+    *   *Rose Day* → "Until I Found You"
+    *   *Propose Day* → "All of Me"
+    *   *Valentine's Day* → "Can't Help Falling in Love"
+    *   *Main Menu* → "River Flows in You"
+*   **Non-Intrusive**: A compact, glass-morphism player fixed to the bottom-left.
+*   **Persistent**: Music continues smoothly while navigating the site.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🛠️ Tech Stack
+This project was built with modern web technologies for performance and aesthetics:
+*   **Framework**: [React](https://react.dev/) + [Vite](https://vitejs.dev/) for lightning-fast reloading.
+*   **Styling**: [Tailwind CSS](https://tailwindcss.com/) for a sleek, responsive design.
+*   **UI Components**: [shadcn/ui](https://ui.shadcn.com/) + [Radix UI](https://www.radix-ui.com/) for accessible, premium components.
+*   **Animations**: [Framer Motion](https://www.framer.com/motion/) for buttery smooth transitions.
+*   **Icons**: [Lucide React](https://lucide.dev/) for crisp vector iconography.
 
-**Use your preferred IDE**
+## 🚀 Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/AMZSACDbdh/my_time.git
+    cd my_time
+    ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+2.  **Install Dependencies**
+    ```bash
+    npm install
+    ```
 
-Follow these steps:
+3.  **Run Development Server**
+    ```bash
+    npm run dev
+    ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+4.  **Build for Production**
+    ```bash
+    npm run build
+    ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 💖 Credits
+Made with love by **Akshay Kumar** for a special someone.
+All rights reserved © 2026.

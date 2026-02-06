@@ -4,6 +4,14 @@ Welcome to **Valentine's Unlocked**, a premium, interactive web experience desig
 
 **Live Demo**: [Running locally at http://localhost:8080](http://localhost:8080)
 
+## 🚀 One-Click Deployment
+
+You can deploy this project to the web in seconds using Vercel or Netlify.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AMZSACDbdh/my_time)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AMZSACDbdh/my_time)
+
 ## ✨ Key Features
 
 ### 📅 The Valentine's Week Journey
